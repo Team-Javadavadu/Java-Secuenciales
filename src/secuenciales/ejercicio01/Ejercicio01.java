@@ -1,5 +1,6 @@
 package secuenciales.ejercicio01;
 
+// https://plataforma.josedomingo.org/pledin/cursos/programacion/curso/u16/
 // Escribir un programa que pregunte al usuario su nombre, y luego lo salude.
 import java.util.Scanner;
 

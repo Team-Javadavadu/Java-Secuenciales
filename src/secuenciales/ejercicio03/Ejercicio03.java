@@ -21,7 +21,7 @@ public class Ejercicio03 {
         // Proceso
         hipotenusa = (float) (Math.pow(cateto1, 2) + Math.pow(cateto2, 2));
         
-        System.out.println("La hipotenusa del triángulo es: " + Math.sqrt(hipotenusa));
+        System.out.println("\nLa hipotenusa del triángulo es: " + Math.sqrt(hipotenusa));
         
     }
     
